@@ -64,3 +64,8 @@
     }
 
 }
+@mixin heading {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 400;
+}
